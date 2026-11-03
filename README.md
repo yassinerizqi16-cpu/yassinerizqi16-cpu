@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=TuUsuarioDeGitHub&color=brightgreen" alt="Contador de visitas" />
 </p>
 
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la tecnología 🚀</h3>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la tecnología 🚀</h3>
 
 ---
 
